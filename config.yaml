@@ -88,26 +88,26 @@ params:
         subtitle: London Business School 
         title: Education
         url: blogs/lbs
-      - image: lbs.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Work Experience
-        url: blogs/magna
-      - image: pic04.jpg
+      - image: ball.jpg
+        subtitle: What I enjoy the most in my free time!
+        title: Interests
+        url: blogs/interest
+      - image: CV.jpg
         subtitle: Check out my CV! 
         title: Curriculum Vitae
-        url: blogs/ipsum
+        url: blogs/cv
       - image: yield.jpg
-        subtitle: Invesrion in the US 
-        title: Yield Curve
+        subtitle: R project
+        title: Yield Curve Inversion
         url: blogs/yield_curve
       - image: risk.jpg
-        subtitle: My first project
-        title: Risk Return 
+        subtitle: R project
+        title: Risk-Return of DJIA stocks
         url: blogs/risk_return
-  two:
-    buttonText: I am ready
-    enable: yes
-    subtitle: "If you would like to learn more about my life 
-    you can always check out my blogs "
-    title: Reading Blogs
-    url: blogs
+#  two:
+  #  buttonText: I am ready
+  #  enable: yes
+  #  subtitle: "If you would like to learn more about my life 
+  #  you can always check out my blogs "
+  #  title: Reading Blogs
+  #  url: blogs
