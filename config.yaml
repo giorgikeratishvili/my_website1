@@ -1,31 +1,30 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Kostis Christodoulou
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Let's Go
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      You can learn a little bit about me in my blogs. 
+    title: Hi, I am Giorgi! 
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London
+        country: United Kingdom
+        street: Flint Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: giorgik.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+995) 577-25-40-16 
         title: Phone
   custom_css: []
   custom_js: []
@@ -34,85 +33,81 @@ params:
     heading: Page couldn't be found
     text: Please visit [this page](/)
   favicon: favicon.ico
-  footer:
-    copyright: Company Name
+  footer:  
+    copyright: Giorgi Keratishvili
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+   #   - alt: HTML5 UP
+  #    text: 'Design: '
+   #     url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+    #  - icon: fa-twitter
+     #   label: Twitter
+      #  url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/george.keratishvili
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/giorgi.keratishvili/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/giorgikeratishvili
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/giorgi-keratishvili-451499173/
   image: ''
   name: Your name
   navigation:
     button1:
-      - name: Get Started
+      - name: My Projects
         url: blogs
     button2:
-      - name: Log In
-        url: '#'
+    #  - name: Log In
+    #    url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+   #   - name: Generic Blog
+  #      url: blogs/ipsum
+   #   - name: Elements
+    #    url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Portfolio Website
+    title: Giorgi
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
+      - image: denis-arslanbekov-b-eGDk5_gPo-unsplash.jpg
+        subtitle: This is where I am from 
+        title: Georgia
+        url: blogs/georgia
+      - image: lbs.jpg
+        subtitle: London Business School 
+        title: Education
+        url: blogs/lbs
+      - image: lbs.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
+        title: Work Experience
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Check out my CV! 
+        title: Curriculum Vitae
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: yield.jpg
+        subtitle: Invesrion in the US 
+        title: Yield Curve
+        url: blogs/yield_curve
+      - image: risk.jpg
+        subtitle: My first project
+        title: Risk Return 
+        url: blogs/risk_return
   two:
-    buttonText: Get Started
+    buttonText: I am ready
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "If you would like to learn more about my life 
+    you can always check out my blogs "
+    title: Reading Blogs
     url: blogs
