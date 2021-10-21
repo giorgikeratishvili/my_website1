@@ -61,7 +61,7 @@ params:
   navigation:
     button1:
       - name: My Projects
-        url: blogs
+        url: blogs/yield_curve
     button2:
     #  - name: Log In
     #    url: '#'
